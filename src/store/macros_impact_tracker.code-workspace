@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../macros_impact_tracker"
+		},
+		{
+			"path": "../../node_modules"
+		},
+		{
+			"path": "../../public"
+		},
+		{
+			"path": "../../screenshots"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
