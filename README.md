@@ -25,13 +25,13 @@ The app runs on `http://localhost:5173` with the backend on port `3001`.
 ## Demo
 
 ### Dashboard View
-![Dashboard](screenshots/Screenshot%202026-01-13%20at%209.46.45%20PM.png)
+![Dashboard](screenshots/dashboard-main.png)
 
 ### Market Impact Analysis
-![Impact Analysis](screenshots/Screenshot%202026-01-13%20at%209.46.59%20PM.png)
+![Impact Analysis](screenshots/impact-analysis.png)
 
 ### Economic Calendar
-![Calendar View](screenshots/Screenshot%202026-01-13%20at%209.47.13%20PM.png)
+![Calendar View](screenshots/calendar-view.png)
 
 ## Asset Classes Tracked
 
