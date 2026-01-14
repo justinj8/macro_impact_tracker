@@ -1,20 +1,14 @@
 # Macro Impact Tracker
 
-A real-time web application that monitors how macroeconomic events (CPI, NFP, FOMC, GDP, etc.) immediately impact financial markets across multiple asset classes.
+This Macro Impact Tracker is a real-time web dashboard that monitors and analyzes how major economic data releases (like CPI, NFP, and FOMC decisions) immediately impact prices across equities, forex, bonds, commodities, and volatility indices.
 
 ## Features
 
 - **Real-time market monitoring** across 14+ assets (equities, FX, bonds, commodities, volatility)
-- **Live event tracking** for scheduled economic releases
-- **Impact analysis** measuring market reactions at 1, 5, 15, 30, and 60 minute intervals
+- **Economic event tracking** for scheduled economic releases
+- **Impact analysis** measuring market reactions at 1, 5, 15, 30, and 60 minute intervals (work in progress)
 - **Interactive dashboards** with price charts and market tickers
-- **Economic calendar** with upcoming events through 2027
-
-## Tech Stack
-
-**Frontend:** React, Vite, Tailwind CSS, Chart.js, Zustand, Socket.io-client
-
-**Backend:** Node.js, Express, Socket.io
+- **Economic calendar** with upcoming events through 2026
 
 ## Getting Started
 
@@ -51,4 +45,5 @@ The app runs on `http://localhost:5173` with the backend on port `3001`.
 
 ## Economic Indicators
 
-CPI, NFP, PMI, FOMC, GDP, PPI, PCE, Retail Sales, Jobless Claims
+- CPI, NFP, PMI, FOMC, GDP, PPI, PCE,
+- Retail Sales, Jobless Claims
